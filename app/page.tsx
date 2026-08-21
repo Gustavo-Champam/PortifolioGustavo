@@ -23,8 +23,8 @@ const secondaryProjects = [
   },
   {
     number: "05",
-    visual: "grava",
-    title: "GRAVA.AI",
+    visual: "product",
+    title: "Product.AI",
     label: "Totem interativo",
     description:
       "Experiência vertical de compra conectada ao Gemini, com fallback local para a jornada nunca parar.",
