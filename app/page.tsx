@@ -97,12 +97,12 @@ function ProjectArtwork({ type }: { type: string }) {
     );
   }
 
-  if (type === "grava") {
+  if (type === "Product") {
     return (
-      <div className="artwork grava-art" aria-hidden="true">
-        <div className="grava-orbit" />
-        <div className="grava-device">
-          <span>GRAVA.AI</span>
+      <div className="artwork Product-art" aria-hidden="true">
+        <div className="Product-orbit" />
+        <div className="Product-device">
+          <span>Product.AI</span>
           <strong>Crie algo<br />que é só seu.</strong>
           <i>Gemini · online</i>
         </div>
